@@ -2,8 +2,11 @@
 
 Ich bin Entwickler aus Leidenschaft, spezialisiert auf:
 
-- 🌐 Webentwicklung mit PHP auf Symfony
+- 🌐 Webentwicklung mit
+- 🐘 PHP & Symfony
 - ☕ Java & Spring Boot
+
+Weitere Kenntnisse und Fähigkeiten auf Nachfrage.
 
 ## 📫 Kontakt
 - 💼 [LinkedIn](https://www.linkedin.com/in/bj%C3%B6rn-a-b%C3%BCchau-39ba3524a/)
